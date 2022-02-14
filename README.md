@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on:  30 Days of Python
-- 🌱 I’m currently learning : Python and Linux
-- 👯 I’m looking to collaborate on: Anything Cyber Security!
+- 🔭 I’m currently working on:  RHCSA
+- 🌱 I’m currently learning :  Linux
+- 👯 I’m looking to collaborate on: Anything on Cybersecurity or Linux
 - 💬 Ask me about : Networking or Beginner Python questions
 - 📫 How to reach me: praveenkuttinal@gmail.com
 - 😄 Pronouns: He/Him
