@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on:  RHCSA
-- 🌱 I’m currently learning :  Linux
-- 👯 I’m looking to collaborate on: Anything on Cybersecurity or Linux
+- 🌱 I’m currently learning :  AWS
+- 👯 I’m looking to collaborate on: Python Scripting, Network Security Topics
 - 💬 Ask me about : Networking or Beginner Python questions
 - 📫 How to reach me: praveenkuttinal@gmail.com
 - 😄 Pronouns: He/Him
