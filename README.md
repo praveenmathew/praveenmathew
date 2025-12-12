@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning :  CCNP
-- 👯 I’m looking to collaborate on: Ansible
-- 💬 Ask me about : Networking or AWX
+- 🌱 I’m currently learning :  RHCSA
+- 👯 I’m looking to collaborate on: DevOps
+- 💬 Ask me about : Networking
 - 📫 How to reach me: praveenkuttinal@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I blog at praveenmathew.wordpress.com and plays the Libero position in Volleyball!
